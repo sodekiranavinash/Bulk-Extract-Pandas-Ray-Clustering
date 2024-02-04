@@ -1,5 +1,5 @@
 # Bulk Extraction (above 10 million rows and more) from remote databases
-This Program extracts huge volumes of data using distributed programming `(ray - clustering technique)` and its performance depends on available `Machine CPU Cores and its Threads`.
+This Program helps in extracting huge volumes of data using distributed programming `(ray - clustering technique)` and its performance depends on available `Machine CPU Cores and its Threads`.
 
 ## Introduction
 - This Appplication helps in parallely fetching data from remote databases using ray-clustering where `pandas` and native mtehods may take huge time or can even possibly fail.
