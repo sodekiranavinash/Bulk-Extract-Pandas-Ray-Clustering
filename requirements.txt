@@ -1,0 +1,4 @@
+ray[default]==2.9.1
+mysql-connector-python==8.3.0
+pandas==2.2.0
+python-dotenv==1.0.1
