@@ -1,4 +1,4 @@
-# Bulk Extraction (above 10 million rows and more) from remote databases
+# Bulk Extraction (above 1 million rows and more) from remote databases
 This Program helps in extracting huge volumes of data using distributed programming `(ray - clustering technique)` and its performance depends on available `Machine CPU Cores and its Threads`.
 
 ## Introduction
